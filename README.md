@@ -1,2 +1,2 @@
-# BatterySynthesisExtractor
-Implementation of battery synthesis extractor
+# BatteryRecipeMiner
+Implementation of battery recipe miner
